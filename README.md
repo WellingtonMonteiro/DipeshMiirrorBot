@@ -2,7 +2,7 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 
 # Features:
 
-## By [Dipesh](https://t.me/toxytech)
+## By [Dipesh](https://t.me/toxytech) ded repo will g t error
 
 - qBittorrent
 - Select files from Torrent before downloading using qbittorrent
